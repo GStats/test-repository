@@ -1,1 +1,1 @@
-# test-repository
+# GStats / test-repository
